@@ -1,0 +1,22 @@
+.counter {
+    border: 1px solid darkblue;
+    padding: 30px;
+    width: 300px;
+    left: 0;
+    right: 0;
+    margin: 50px auto;
+}
+
+.counter span.value {
+    margin-left: 10px;
+  }
+
+  .counter input[type=number] {
+    padding: 5px;
+    width: 20%;
+    color: red;
+    font-weight: bold;
+    
+}
+
+/* .counter label */
